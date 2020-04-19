@@ -1,0 +1,115 @@
+ Changelog:
+ 
+ V2.3
+ - Added taxonomy module for the Divi Builder
+ 
+ V2.4
+ - Added postnav module for next/prev navigation on post type items
+ 
+ V2.5
+ - Added meta, author, comment and category settings to the CPT Post Title module for greater ease of use and flexibility
+ 
+ V2.6
+ - Fixed taxonomy module issues
+ - Reversed options in title module for usability
+ 
+ V2.7
+ - Added author bio module
+ 
+ V2.8
+ - Added support for the 'Events Manager' plugin in the loop archive module
+ 
+ V2.9
+ - Added better support for the 'page' post type
+ 
+ V3.0 - 3/2/17
+ - Added text colour and alignment options to title and content modules
+ - added licensing and automatic updates
+ - improved settings page by adding helpful links when no layouts are present
+ - improved settings page by removing prebuilt layouts from the various layout dropdowns
+ - Loop Archive module, hide grid columns option when list mode selected
+ 
+ V3.1 - 15/2/17
+ - Added Meta Query options to Loop Archive Module
+ 
+ V3.2 - 22/2/17
+ - Added option to hide module if no results in loop archive
+ - Added more meta query options to loop archive
+ - Added title option to loop archive
+ 
+ V3.3 - 5/6/17
+ - Fixed default date in title module
+ - Fixed compatibility with 'subtitles' plugin. Disallowed superfluous html in the featured image within the archive module
+ 
+ V3.4 - 17/8/17
+ - Updated single function output for supporting third party plugins (adding the 'the_content' filter on output)
+ 
+ V3.5 - 13/9/17
+ - Updated modules to use the new toggle layouts. This means that the background selection won't be the first field you see.
+ - Removed ET prefix from CPT modules for clarity
+ - Added sort/order options to the loop archive module for added flexibility
+ - Added support for the WP 'posts page' functionaliy meaning that widgets such as 'recent posts' and 'calendar' will work and point to the correct page
+ - Fixed notice related to 'show_categories'
+ - Fixed a few layout issues with the "CPT Archive" module. Added more options for grid columns etc also
+ 
+ V 3.6 - 22/9/17
+ - Fixed issue with additional P tags being added superfluously
+ 
+ V 3.7 - 01/11/17
+ - Fixed issue with auto update
+ 
+ V 3.8 - 06/11/17
+ - Added ability to edit the HTML title tag for CPT archives
+ 
+ V 3.9 - 19/11/17
+ - Fixed bullet point CSS
+ - Added better recognition of post types using get_query_var and not get_post_type which seems wrong at times
+ 
+ V 4.0 - 20/12/17
+ - Added handy click to edit links on the settings page for selected layouts
+ - Added order by settings to the CPT Archive module
+ - Added menu_order to order by settings in the CPT Loop Archive module
+ - Fixed false positive when on taxonomy archive pages which caused some issues!
+ - Added custom css options to CPT Title module. Renamed text in design settings to meta for clarity
+ - Moved to builder_ready for custom modules
+ 
+ V 4.1 - 09/02/18
+ - Added prefix and suffix to the taxonomy module along with styling options
+ - Added class="entry-content" to the main container to maintain styling of the page
+ 
+ V 4.2 - 21/02/18
+ - Added meta operator field to the loop archive module and archive module
+ - Added multiple taxonomy filtering to the archive module (previously only supported one at a time)
+ - Added plugin page action links for support, settings etc..
+ - Reordered the settings page a bit to make some of the settings more clear and added a link to the Divi Builder Settings plugin (free) to control the Divi Builder per post type
+
+ V 4.3 - 26/02/18
+ - Fixed Taxonomy Filtering in the archive module
+ - Added new major feature! You can template single CPT items by the taxonomy they belong to. So instead of having one template for all single items you can have one for category 1 and another for category 2 etc..\
+
+V 4.4 - 29/02/18
+ - Fixed PHP Notice
+ - Added new Read More module for when you want to show a read more button but without any excerpt or content
+ - Removed some of the CPT modules from the main Divi Builder so now they show ONLY when adding a layout, section, row etc in the Divi Library
+
+V 4.5 - 20/04/18
+ - Added fix for toolset shortcodes
+ - Added ability to place a shortcode anywhere in a divi module and it be parsed
+
+V 4.6 - 06/08/18
+ - Added fix for certain templates not being picked up with the latest WP/Divi
+
+V 4.7 - 08/10/18
+- Renamed module functions for latest Divi version
+- Fixed possible memory leak within the content module
+
+V 4.8 - 03/04/19
+- Added support for CPTonomies plugin
+- Fixed post type selection giving incorrect templates
+- Various snags fixed from suppor requests
+
+V 4.9 - 17/04/19
+- Visual Builder Support (yay!)
+
+V 4.9.1 - 11/07/19
+- Bug Fix version missing style.css

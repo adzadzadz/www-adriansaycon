@@ -1,0 +1,1109 @@
+# Copyright (C) 2019 Sean Barton - Tortoise IT
+# This file is distributed under the same license as the CPT Layout Injector package.
+msgid ""
+msgstr ""
+"Project-Id-Version: CPT Layout Injector 4.9\n"
+"Report-Msgid-Bugs-To: "
+"https://wordpress.org/support/plugin/divi_cpt_layout_injector\n"
+"POT-Creation-Date: 2019-04-18 21:37:53+00:00\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=utf-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"PO-Revision-Date: 2019-MO-DA HO:MI+ZONE\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language-Team: LANGUAGE <LL@li.org>\n"
+"Language: en\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+"X-Poedit-Country: United States\n"
+"X-Poedit-SourceCharset: UTF-8\n"
+"X-Poedit-KeywordsList: "
+"__;_e;_x:1,2c;_ex:1,2c;_n:1,2;_nx:1,2,4c;_n_noop:1,2;_nx_noop:1,2,3c;esc_"
+"attr__;esc_html__;esc_attr_e;esc_html_e;esc_attr_x:1,2c;esc_html_x:1,2c;\n"
+"X-Poedit-Basepath: ../\n"
+"X-Poedit-SearchPath-0: .\n"
+"X-Poedit-Bookmarks: \n"
+"X-Textdomain-Support: yes\n"
+"X-Generator: grunt-wp-i18n1.0.2\n"
+
+#: includes/modules/author_bio/author_bio.php:14
+msgid "CPT Author Bio"
+msgstr ""
+
+#: includes/modules/author_bio/author_bio.php:23
+#: includes/modules/content/content.php:27
+#: includes/modules/gallery/gallery.php:20
+#: includes/modules/loop_archive/loop_archive.php:20
+#: includes/modules/postnav/postnav.php:21
+#: includes/modules/pt_archive/pt_archive.php:91
+#: includes/modules/read_more/read_more.php:14
+#: includes/modules/taxonomy/taxonomy.php:23
+#: includes/modules/title/title.php:25
+msgid "Main Settings"
+msgstr ""
+
+#: includes/modules/author_bio/author_bio.php:31
+#: includes/modules/content/content.php:35
+#: includes/modules/loop_archive/loop_archive.php:39
+#: includes/modules/postnav/postnav.php:31
+#: includes/modules/pt_archive/pt_archive.php:43
+#: includes/modules/read_more/read_more.php:29
+#: includes/modules/taxonomy/taxonomy.php:31
+msgid "Text"
+msgstr ""
+
+#: includes/modules/author_bio/author_bio.php:39
+#: includes/modules/content/content.php:43
+#: includes/modules/loop_archive/loop_archive.php:47
+#: includes/modules/postnav/postnav.php:39
+#: includes/modules/pt_archive/pt_archive.php:51
+#: includes/modules/taxonomy/taxonomy.php:39
+#: includes/modules/title/title.php:42
+msgid "Headings"
+msgstr ""
+
+#: includes/modules/author_bio/author_bio.php:47
+msgid "Social Media Icons"
+msgstr ""
+
+#: includes/modules/author_bio/author_bio.php:72
+#: includes/modules/content/content.php:139
+#: includes/modules/gallery/gallery.php:264
+#: includes/modules/loop_archive/loop_archive.php:294
+#: includes/modules/postnav/postnav.php:64
+#: includes/modules/pt_archive/pt_archive.php:490
+#: includes/modules/read_more/read_more.php:97
+#: includes/modules/taxonomy/taxonomy.php:82
+#: includes/modules/title/title.php:197
+msgid "Admin Label"
+msgstr ""
+
+#: includes/modules/author_bio/author_bio.php:74
+#: includes/modules/content/content.php:141
+#: includes/modules/gallery/gallery.php:266
+#: includes/modules/loop_archive/loop_archive.php:296
+#: includes/modules/postnav/postnav.php:66
+#: includes/modules/pt_archive/pt_archive.php:492
+#: includes/modules/read_more/read_more.php:99
+#: includes/modules/taxonomy/taxonomy.php:84
+#: includes/modules/title/title.php:199
+msgid ""
+"This will change the label of the module in the builder for easy "
+"identification."
+msgstr ""
+
+#: includes/modules/author_bio/author_bio.php:77
+#: includes/modules/content/content.php:144
+#: includes/modules/gallery/gallery.php:269
+#: includes/modules/loop_archive/loop_archive.php:299
+#: includes/modules/postnav/postnav.php:69
+#: includes/modules/pt_archive/pt_archive.php:495
+#: includes/modules/read_more/read_more.php:102
+#: includes/modules/taxonomy/taxonomy.php:112
+#: includes/modules/title/title.php:202
+msgid "CSS ID"
+msgstr ""
+
+#: includes/modules/author_bio/author_bio.php:84
+#: includes/modules/content/content.php:151
+#: includes/modules/gallery/gallery.php:276
+#: includes/modules/loop_archive/loop_archive.php:306
+#: includes/modules/postnav/postnav.php:76
+#: includes/modules/pt_archive/pt_archive.php:502
+#: includes/modules/read_more/read_more.php:109
+#: includes/modules/taxonomy/taxonomy.php:119
+#: includes/modules/title/title.php:209
+msgid "CSS Class"
+msgstr ""
+
+#: includes/modules/author_bio/author_bio.php:91
+msgid "Show Author Name"
+msgstr ""
+
+#: includes/modules/author_bio/author_bio.php:95
+#: includes/modules/author_bio/author_bio.php:142
+#: includes/modules/author_bio/author_bio.php:152
+#: includes/modules/author_bio/author_bio.php:173
+#: includes/modules/author_bio/author_bio.php:183
+#: includes/modules/content/content.php:98
+#: includes/modules/content/content.php:109
+#: includes/modules/gallery/gallery.php:109
+#: includes/modules/gallery/gallery.php:200
+#: includes/modules/gallery/gallery.php:231
+#: includes/modules/gallery/gallery.php:240
+#: includes/modules/loop_archive/loop_archive.php:175
+#: includes/modules/loop_archive/loop_archive.php:186
+#: includes/modules/loop_archive/loop_archive.php:274
+#: includes/modules/pt_archive/pt_archive.php:221
+#: includes/modules/pt_archive/pt_archive.php:312
+#: includes/modules/pt_archive/pt_archive.php:323
+#: includes/modules/pt_archive/pt_archive.php:334
+#: includes/modules/pt_archive/pt_archive.php:345
+#: includes/modules/title/title.php:99 includes/modules/title/title.php:109
+#: includes/modules/title/title.php:126 includes/modules/title/title.php:138
+#: includes/modules/title/title.php:173
+msgid "Yes"
+msgstr ""
+
+#: includes/modules/author_bio/author_bio.php:96
+#: includes/modules/author_bio/author_bio.php:143
+#: includes/modules/author_bio/author_bio.php:153
+#: includes/modules/author_bio/author_bio.php:174
+#: includes/modules/author_bio/author_bio.php:184
+#: includes/modules/content/content.php:97
+#: includes/modules/content/content.php:108
+#: includes/modules/gallery/gallery.php:108
+#: includes/modules/gallery/gallery.php:199
+#: includes/modules/gallery/gallery.php:230
+#: includes/modules/gallery/gallery.php:241
+#: includes/modules/loop_archive/loop_archive.php:176
+#: includes/modules/loop_archive/loop_archive.php:185
+#: includes/modules/loop_archive/loop_archive.php:273
+#: includes/modules/pt_archive/pt_archive.php:222
+#: includes/modules/pt_archive/pt_archive.php:313
+#: includes/modules/pt_archive/pt_archive.php:324
+#: includes/modules/pt_archive/pt_archive.php:335
+#: includes/modules/pt_archive/pt_archive.php:346
+#: includes/modules/title/title.php:98 includes/modules/title/title.php:110
+#: includes/modules/title/title.php:127 includes/modules/title/title.php:139
+#: includes/modules/title/title.php:174
+msgid "No"
+msgstr ""
+
+#: includes/modules/author_bio/author_bio.php:107
+msgid "Link Author Name"
+msgstr ""
+
+#: includes/modules/author_bio/author_bio.php:110
+msgid "Author URL (automatic WP archive)"
+msgstr ""
+
+#: includes/modules/author_bio/author_bio.php:111
+msgid "User URL (set in profile)"
+msgstr ""
+
+#: includes/modules/author_bio/author_bio.php:112
+msgid "No link"
+msgstr ""
+
+#: includes/modules/author_bio/author_bio.php:119
+msgid "Link Target"
+msgstr ""
+
+#: includes/modules/author_bio/author_bio.php:130
+#: includes/modules/author_bio/author_bio.php:161
+msgid "Pre Text"
+msgstr ""
+
+#: includes/modules/author_bio/author_bio.php:138
+msgid "Show Author Bio"
+msgstr ""
+
+#: includes/modules/author_bio/author_bio.php:148
+msgid "Show Author Website"
+msgstr ""
+
+#: includes/modules/author_bio/author_bio.php:169
+msgid "Show Author Social Media"
+msgstr ""
+
+#: includes/modules/author_bio/author_bio.php:179
+msgid "Show Author Avatar"
+msgstr ""
+
+#: includes/modules/author_bio/author_bio.php:193
+msgid "Avatar Size"
+msgstr ""
+
+#: includes/modules/author_bio/author_bio.php:197
+msgid ""
+"The size in pixels of the avatar. Defaults to 128. Enter a number ONLY. 64 "
+"being small, 256 being large."
+msgstr ""
+
+#: includes/modules/author_bio/author_bio.php:201
+msgid "Avatar Alignment"
+msgstr ""
+
+#: includes/modules/author_bio/author_bio.php:204
+#: includes/modules/gallery/gallery.php:210
+msgid "Left"
+msgstr ""
+
+#: includes/modules/author_bio/author_bio.php:205
+#: includes/modules/gallery/gallery.php:212
+msgid "Right"
+msgstr ""
+
+#: includes/modules/author_bio/author_bio.php:208
+msgid "Alignment of the avatar"
+msgstr ""
+
+#: includes/modules/content/content.php:14
+msgid "CPT Content"
+msgstr ""
+
+#: includes/modules/content/content.php:51
+#: includes/modules/pt_archive/pt_archive.php:67
+#: includes/modules/pt_archive/pt_archive.php:114
+#: includes/modules/pt_archive/pt_archive.php:296
+msgid "Read More Button"
+msgstr ""
+
+#: includes/modules/content/content.php:74
+#: includes/modules/pt_archive/pt_archive.php:448
+#: includes/modules/read_more/read_more.php:61
+#: includes/modules/title/title.php:75
+msgid "Text Color"
+msgstr ""
+
+#: includes/modules/content/content.php:78
+#: includes/modules/pt_archive/pt_archive.php:452
+#: includes/modules/read_more/read_more.php:66
+#: includes/modules/title/title.php:79
+msgid "Dark"
+msgstr ""
+
+#: includes/modules/content/content.php:79
+#: includes/modules/pt_archive/pt_archive.php:453
+#: includes/modules/read_more/read_more.php:67
+#: includes/modules/title/title.php:80
+msgid "Light"
+msgstr ""
+
+#: includes/modules/content/content.php:81
+#: includes/modules/read_more/read_more.php:69
+#: includes/modules/title/title.php:82
+msgid ""
+"Here you can choose the value of your text. If you are working with a dark "
+"background, then your text should be set to light. If you are working with "
+"a light background, then your text should be dark."
+msgstr ""
+
+#: includes/modules/content/content.php:85
+#: includes/modules/read_more/read_more.php:72
+#: includes/modules/title/title.php:86
+msgid "Text Orientation"
+msgstr ""
+
+#: includes/modules/content/content.php:89
+#: includes/modules/read_more/read_more.php:77
+#: includes/modules/title/title.php:90
+msgid "This controls the how your text is aligned within the module."
+msgstr ""
+
+#: includes/modules/content/content.php:93
+msgid "Excerpt Only?"
+msgstr ""
+
+#: includes/modules/content/content.php:100
+msgid "Should this show content only or excerpt?"
+msgstr ""
+
+#: includes/modules/content/content.php:104
+msgid "Show Read More?"
+msgstr ""
+
+#: includes/modules/content/content.php:112
+msgid "Should a read more button be shown below the content?"
+msgstr ""
+
+#: includes/modules/content/content.php:116
+msgid "Read More Label"
+msgstr ""
+
+#: includes/modules/content/content.php:119
+msgid "What should the read more button be labelled as? Defaults to \"Read More\"."
+msgstr ""
+
+#: includes/modules/content/content.php:123
+#: includes/modules/read_more/read_more.php:80
+#: includes/modules/title/title.php:181
+msgid "Max Width"
+msgstr ""
+
+#: includes/modules/gallery/gallery.php:14
+msgid "CPT Featured Image"
+msgstr ""
+
+#: includes/modules/gallery/gallery.php:58
+msgid "Left To Right"
+msgstr ""
+
+#: includes/modules/gallery/gallery.php:59
+msgid "Right To Left"
+msgstr ""
+
+#: includes/modules/gallery/gallery.php:60
+msgid "Top To Bottom"
+msgstr ""
+
+#: includes/modules/gallery/gallery.php:61
+msgid "Bottom To Top"
+msgstr ""
+
+#: includes/modules/gallery/gallery.php:62
+msgid "Fade In"
+msgstr ""
+
+#: includes/modules/gallery/gallery.php:63
+msgid "No Animation"
+msgstr ""
+
+#: includes/modules/gallery/gallery.php:83
+msgid "Image Size"
+msgstr ""
+
+#: includes/modules/gallery/gallery.php:86
+msgid "Pick a size for the featured image from the list. Leave blank for default."
+msgstr ""
+
+#: includes/modules/gallery/gallery.php:90
+msgid "Image Alternative Text"
+msgstr ""
+
+#: includes/modules/gallery/gallery.php:93
+msgid ""
+"This defines the HTML ALT text. A short description of your image can be "
+"placed here."
+msgstr ""
+
+#: includes/modules/gallery/gallery.php:97
+msgid "Image Title Text"
+msgstr ""
+
+#: includes/modules/gallery/gallery.php:100
+msgid "This defines the HTML Title text."
+msgstr ""
+
+#: includes/modules/gallery/gallery.php:104
+msgid "Open in Lightbox"
+msgstr ""
+
+#: includes/modules/gallery/gallery.php:116
+msgid ""
+"Here you can choose whether or not the image should open in Lightbox. Note: "
+"if you select to open the image in Lightbox, url options below will be "
+"ignored."
+msgstr ""
+
+#: includes/modules/gallery/gallery.php:120
+msgid "Link URL"
+msgstr ""
+
+#: includes/modules/gallery/gallery.php:127
+msgid ""
+"If you would like your image to be a link, input your destination URL here. "
+"No link will be created if this field is left blank unless the image is "
+"used on an archive page in which case the image will link to the post type "
+"item."
+msgstr ""
+
+#: includes/modules/gallery/gallery.php:131
+msgid "Url Opens"
+msgstr ""
+
+#: includes/modules/gallery/gallery.php:135
+msgid "In The Same Window"
+msgstr ""
+
+#: includes/modules/gallery/gallery.php:136
+msgid "In The New Tab"
+msgstr ""
+
+#: includes/modules/gallery/gallery.php:139
+msgid "Here you can choose whether or not your link opens in a new window"
+msgstr ""
+
+#: includes/modules/gallery/gallery.php:143
+msgid "Image Overlay"
+msgstr ""
+
+#: includes/modules/gallery/gallery.php:147
+#: includes/modules/pt_archive/pt_archive.php:300
+#: includes/modules/pt_archive/pt_archive.php:409
+#: includes/modules/pt_archive/pt_archive.php:471
+msgid "Off"
+msgstr ""
+
+#: includes/modules/gallery/gallery.php:148
+#: includes/modules/pt_archive/pt_archive.php:301
+#: includes/modules/pt_archive/pt_archive.php:410
+#: includes/modules/pt_archive/pt_archive.php:472
+msgid "On"
+msgstr ""
+
+#: includes/modules/gallery/gallery.php:156
+msgid ""
+"If enabled, an overlay color and icon will be displayed when a visitors "
+"hovers over the image"
+msgstr ""
+
+#: includes/modules/gallery/gallery.php:160
+#: includes/modules/pt_archive/pt_archive.php:421
+msgid "Overlay Icon Color"
+msgstr ""
+
+#: includes/modules/gallery/gallery.php:164
+#: includes/modules/pt_archive/pt_archive.php:425
+msgid "Here you can define a custom color for the overlay icon"
+msgstr ""
+
+#: includes/modules/gallery/gallery.php:168
+#: includes/modules/pt_archive/pt_archive.php:429
+msgid "Hover Overlay Color"
+msgstr ""
+
+#: includes/modules/gallery/gallery.php:172
+#: includes/modules/pt_archive/pt_archive.php:433
+msgid "Here you can define a custom color for the overlay"
+msgstr ""
+
+#: includes/modules/gallery/gallery.php:176
+#: includes/modules/pt_archive/pt_archive.php:437
+msgid "Hover Icon Picker"
+msgstr ""
+
+#: includes/modules/gallery/gallery.php:183
+#: includes/modules/pt_archive/pt_archive.php:444
+msgid "Here you can define a custom icon for the overlay"
+msgstr ""
+
+#: includes/modules/gallery/gallery.php:187
+msgid "Animation"
+msgstr ""
+
+#: includes/modules/gallery/gallery.php:191
+msgid "This controls the direction of the lazy-loading animation."
+msgstr ""
+
+#: includes/modules/gallery/gallery.php:195
+msgid "Remove Space Below The Image"
+msgstr ""
+
+#: includes/modules/gallery/gallery.php:202
+msgid "Here you can choose whether or not the image should have a space below it."
+msgstr ""
+
+#: includes/modules/gallery/gallery.php:206
+msgid "Image Alignment"
+msgstr ""
+
+#: includes/modules/gallery/gallery.php:211
+msgid "Center"
+msgstr ""
+
+#: includes/modules/gallery/gallery.php:214
+msgid "Here you can choose the image alignment."
+msgstr ""
+
+#: includes/modules/gallery/gallery.php:218
+msgid "Image Max Width"
+msgstr ""
+
+#: includes/modules/gallery/gallery.php:226
+msgid "Force Fullwidth"
+msgstr ""
+
+#: includes/modules/gallery/gallery.php:236
+msgid "Always Center Image On Mobile"
+msgstr ""
+
+#: includes/modules/gallery/gallery.php:252
+#: includes/modules/pt_archive/pt_archive.php:478
+msgid "Disable on"
+msgstr ""
+
+#: includes/modules/gallery/gallery.php:255
+#: includes/modules/pt_archive/pt_archive.php:481
+msgid "Phone"
+msgstr ""
+
+#: includes/modules/gallery/gallery.php:256
+#: includes/modules/pt_archive/pt_archive.php:482
+msgid "Tablet"
+msgstr ""
+
+#: includes/modules/gallery/gallery.php:257
+#: includes/modules/pt_archive/pt_archive.php:483
+msgid "Desktop"
+msgstr ""
+
+#: includes/modules/gallery/gallery.php:261
+#: includes/modules/pt_archive/pt_archive.php:487
+msgid "This will disable the module on selected devices"
+msgstr ""
+
+#: includes/modules/loop_archive/loop_archive.php:14
+msgid "CPT Loop Archive"
+msgstr ""
+
+#: includes/modules/loop_archive/loop_archive.php:130
+#: includes/modules/pt_archive/pt_archive.php:98
+msgid "Title"
+msgstr ""
+
+#: includes/modules/loop_archive/loop_archive.php:132
+msgid "Optionally add a title above the posts"
+msgstr ""
+
+#: includes/modules/loop_archive/loop_archive.php:136
+msgid "Loop Layout"
+msgstr ""
+
+#: includes/modules/loop_archive/loop_archive.php:140
+msgid "Choose a layout to use for each post in this archive loop"
+msgstr ""
+
+#: includes/modules/loop_archive/loop_archive.php:144
+#: includes/modules/pt_archive/pt_archive.php:175
+msgid "Layout"
+msgstr ""
+
+#: includes/modules/loop_archive/loop_archive.php:148
+#: includes/modules/pt_archive/pt_archive.php:180
+msgid "List"
+msgstr ""
+
+#: includes/modules/loop_archive/loop_archive.php:149
+#: includes/modules/pt_archive/pt_archive.php:179
+msgid "Grid"
+msgstr ""
+
+#: includes/modules/loop_archive/loop_archive.php:151
+#: includes/modules/pt_archive/pt_archive.php:183
+msgid "Toggle between the various blog layout types."
+msgstr ""
+
+#: includes/modules/loop_archive/loop_archive.php:158
+#: includes/modules/pt_archive/pt_archive.php:190
+msgid "Grid Columns"
+msgstr ""
+
+#: includes/modules/loop_archive/loop_archive.php:163
+#: includes/modules/pt_archive/pt_archive.php:195
+msgid "Two"
+msgstr ""
+
+#: includes/modules/loop_archive/loop_archive.php:164
+#: includes/modules/pt_archive/pt_archive.php:196
+msgid "Three"
+msgstr ""
+
+#: includes/modules/loop_archive/loop_archive.php:165
+#: includes/modules/pt_archive/pt_archive.php:197
+msgid "Four"
+msgstr ""
+
+#: includes/modules/loop_archive/loop_archive.php:167
+#: includes/modules/pt_archive/pt_archive.php:199
+msgid "When in grid mode please select the number of columns you'd like to see."
+msgstr ""
+
+#: includes/modules/loop_archive/loop_archive.php:171
+#: includes/modules/pt_archive/pt_archive.php:341
+msgid "Show Pagination"
+msgstr ""
+
+#: includes/modules/loop_archive/loop_archive.php:178
+msgid ""
+"Turn pagination on and off. Using the free plugin WP Page Navi from the "
+"WP.org directory will make this show page numbers rather than the default "
+"older and newer posts."
+msgstr ""
+
+#: includes/modules/loop_archive/loop_archive.php:182
+msgid "Custom Query"
+msgstr ""
+
+#: includes/modules/loop_archive/loop_archive.php:209
+msgid ""
+"When used on an archive page turn this off. If you want to use on a normal "
+"WP page then select \"ON\" here and complete the settings below."
+msgstr ""
+
+#: includes/modules/loop_archive/loop_archive.php:213
+#: includes/modules/pt_archive/pt_archive.php:167
+msgid "Post Type"
+msgstr ""
+
+#: includes/modules/loop_archive/loop_archive.php:217
+#: includes/modules/pt_archive/pt_archive.php:171
+msgid "Choose a post type to show"
+msgstr ""
+
+#: includes/modules/loop_archive/loop_archive.php:221
+#: includes/modules/pt_archive/pt_archive.php:203
+msgid "Posts Number"
+msgstr ""
+
+#: includes/modules/loop_archive/loop_archive.php:224
+msgid "Choose how many posts you would like to display per page."
+msgstr ""
+
+#: includes/modules/loop_archive/loop_archive.php:228
+#: includes/modules/pt_archive/pt_archive.php:352
+msgid "Offset Number"
+msgstr ""
+
+#: includes/modules/loop_archive/loop_archive.php:231
+#: includes/modules/pt_archive/pt_archive.php:355
+msgid "Choose how many posts you would like to offset by"
+msgstr ""
+
+#: includes/modules/loop_archive/loop_archive.php:235
+#: includes/modules/pt_archive/pt_archive.php:359
+msgid "Include Taxonomy Only"
+msgstr ""
+
+#: includes/modules/loop_archive/loop_archive.php:238
+#: includes/modules/pt_archive/pt_archive.php:362
+msgid "This will filter the query by this taxonomy slug (advanced users only)."
+msgstr ""
+
+#: includes/modules/loop_archive/loop_archive.php:242
+#: includes/modules/pt_archive/pt_archive.php:366
+msgid "Include Taxonomy Terms"
+msgstr ""
+
+#: includes/modules/loop_archive/loop_archive.php:245
+#: includes/modules/pt_archive/pt_archive.php:369
+msgid ""
+"This will filter the query by the above taxonomy and these comma separated "
+"term slugs (advanced users only)."
+msgstr ""
+
+#: includes/modules/loop_archive/loop_archive.php:249
+#: includes/modules/pt_archive/pt_archive.php:373
+msgid "Filter on Meta Key"
+msgstr ""
+
+#: includes/modules/loop_archive/loop_archive.php:252
+#: includes/modules/pt_archive/pt_archive.php:375
+msgid "This will filter the query by this meta key (advanced users only)."
+msgstr ""
+
+#: includes/modules/loop_archive/loop_archive.php:256
+#: includes/modules/pt_archive/pt_archive.php:379
+msgid "Meta Key Terms"
+msgstr ""
+
+#: includes/modules/loop_archive/loop_archive.php:259
+#: includes/modules/pt_archive/pt_archive.php:381
+msgid ""
+"This will filter the query by the above meta key and this value (advanced "
+"users only)."
+msgstr ""
+
+#: includes/modules/loop_archive/loop_archive.php:263
+#: includes/modules/pt_archive/pt_archive.php:385
+msgid "Meta Key Operator"
+msgstr ""
+
+#: includes/modules/loop_archive/loop_archive.php:266
+#: includes/modules/pt_archive/pt_archive.php:387
+msgid ""
+"If filtering the meta query (above two fields) then you can use this field "
+"to set the operator (empty field means = which is default. advanced users "
+"only)"
+msgstr ""
+
+#: includes/modules/loop_archive/loop_archive.php:270
+msgid "Hide if no Results"
+msgstr ""
+
+#: includes/modules/loop_archive/loop_archive.php:276
+msgid "If no results there will be a \"Sorry no results\". Should this be hidden?"
+msgstr ""
+
+#: includes/modules/loop_archive/loop_archive.php:280
+#: includes/modules/pt_archive/pt_archive.php:391
+msgid "Results Order Field"
+msgstr ""
+
+#: includes/modules/loop_archive/loop_archive.php:283
+#: includes/modules/pt_archive/pt_archive.php:394
+msgid "Choose how you'd like the results to be ordered.. title, date, etc..."
+msgstr ""
+
+#: includes/modules/loop_archive/loop_archive.php:287
+#: includes/modules/pt_archive/pt_archive.php:398
+msgid "Results Sort Order"
+msgstr ""
+
+#: includes/modules/loop_archive/loop_archive.php:290
+#: includes/modules/pt_archive/pt_archive.php:401
+msgid "Choose the order of the results.. Ascending or Descending."
+msgstr ""
+
+#: includes/modules/postnav/postnav.php:14
+msgid "CPT Post Nav"
+msgstr ""
+
+#: includes/modules/pt_archive/pt_archive.php:14
+msgid "CPT Archive"
+msgstr ""
+
+#: includes/modules/pt_archive/pt_archive.php:59
+#: includes/modules/title/title.php:50
+msgid "Meta"
+msgstr ""
+
+#: includes/modules/pt_archive/pt_archive.php:102
+msgid "Post Meta"
+msgstr ""
+
+#: includes/modules/pt_archive/pt_archive.php:106
+msgid "Pagenavi"
+msgstr ""
+
+#: includes/modules/pt_archive/pt_archive.php:110
+msgid "Featured Image"
+msgstr ""
+
+#: includes/modules/pt_archive/pt_archive.php:181
+msgid "Fullwidth"
+msgstr ""
+
+#: includes/modules/pt_archive/pt_archive.php:206
+msgid "Choose how much posts you would like to display per page."
+msgstr ""
+
+#: includes/modules/pt_archive/pt_archive.php:210
+msgid "Meta Date Format"
+msgstr ""
+
+#: includes/modules/pt_archive/pt_archive.php:213
+msgid ""
+"If you would like to adjust the date format, input the appropriate PHP date "
+"format here."
+msgstr ""
+
+#: includes/modules/pt_archive/pt_archive.php:217
+msgid "Show Featured Image"
+msgstr ""
+
+#: includes/modules/pt_archive/pt_archive.php:229
+msgid "This will turn thumbnails on and off."
+msgstr ""
+
+#: includes/modules/pt_archive/pt_archive.php:233
+msgid "Featured Image Size"
+msgstr ""
+
+#: includes/modules/pt_archive/pt_archive.php:237
+msgid ""
+"Pick a size for the featured image from the list. If there is no size you "
+"like in the list consider using the free <a "
+"href=\"https://wordpress.org/plugins/simple-image-sizes/\" "
+"target=\"_blank\">Simple Image Sizes</a> where you can define your own."
+msgstr ""
+
+#: includes/modules/pt_archive/pt_archive.php:241
+msgid "Image Link URL"
+msgstr ""
+
+#: includes/modules/pt_archive/pt_archive.php:256
+msgid ""
+"What should the image link to.. nothing, the post itself, the full sized "
+"image or a custom field"
+msgstr ""
+
+#: includes/modules/pt_archive/pt_archive.php:261
+msgid "Image Link Target"
+msgstr ""
+
+#: includes/modules/pt_archive/pt_archive.php:265
+msgid "Same Window/Tab"
+msgstr ""
+
+#: includes/modules/pt_archive/pt_archive.php:266
+msgid "New Window/Tab"
+msgstr ""
+
+#: includes/modules/pt_archive/pt_archive.php:269
+msgid "Should the link open in the same or new window/tab"
+msgstr ""
+
+#: includes/modules/pt_archive/pt_archive.php:273
+msgid "Image URL - Custom Field Name"
+msgstr ""
+
+#: includes/modules/pt_archive/pt_archive.php:277
+msgid "Enter the database name of the custom field"
+msgstr ""
+
+#: includes/modules/pt_archive/pt_archive.php:281
+msgid "Content"
+msgstr ""
+
+#: includes/modules/pt_archive/pt_archive.php:285
+msgid "Show Excerpt"
+msgstr ""
+
+#: includes/modules/pt_archive/pt_archive.php:286
+msgid "Show Content"
+msgstr ""
+
+#: includes/modules/pt_archive/pt_archive.php:287
+msgid "Show None"
+msgstr ""
+
+#: includes/modules/pt_archive/pt_archive.php:292
+msgid ""
+"Showing the full content will not truncate your posts on the index page. "
+"Showing the excerpt will only display your excerpt text."
+msgstr ""
+
+#: includes/modules/pt_archive/pt_archive.php:304
+msgid ""
+"Here you can define whether to show \"read more\" link after the excerpts "
+"or not."
+msgstr ""
+
+#: includes/modules/pt_archive/pt_archive.php:308
+#: includes/modules/title/title.php:122
+msgid "Show Author"
+msgstr ""
+
+#: includes/modules/pt_archive/pt_archive.php:315
+msgid "Turn on or off the author link."
+msgstr ""
+
+#: includes/modules/pt_archive/pt_archive.php:319
+#: includes/modules/title/title.php:134
+msgid "Show Date"
+msgstr ""
+
+#: includes/modules/pt_archive/pt_archive.php:326
+msgid "Turn the date on or off."
+msgstr ""
+
+#: includes/modules/pt_archive/pt_archive.php:330
+msgid "Show Comment Count"
+msgstr ""
+
+#: includes/modules/pt_archive/pt_archive.php:337
+msgid "Turn comment count on and off."
+msgstr ""
+
+#: includes/modules/pt_archive/pt_archive.php:348
+msgid "Turn pagination on and off."
+msgstr ""
+
+#: includes/modules/pt_archive/pt_archive.php:405
+msgid "Featured Image Overlay"
+msgstr ""
+
+#: includes/modules/pt_archive/pt_archive.php:417
+msgid ""
+"If enabled, an overlay color and icon will be displayed when a visitors "
+"hovers over the featured image of a post."
+msgstr ""
+
+#: includes/modules/pt_archive/pt_archive.php:456
+msgid ""
+"Here you can choose whether your text should be light or dark. If you are "
+"working with a dark background, then your text should be light. If your "
+"background is light, then your text should be set to dark."
+msgstr ""
+
+#: includes/modules/pt_archive/pt_archive.php:460
+msgid "Grid Tile Background Color"
+msgstr ""
+
+#: includes/modules/pt_archive/pt_archive.php:467
+msgid "Use Dropshadow"
+msgstr ""
+
+#: includes/modules/pt_archive/pt_archive.php:830
+msgid "by %s"
+msgstr ""
+
+#: includes/modules/pt_archive/pt_archive.php:840
+msgid "%s"
+msgstr ""
+
+#: includes/modules/pt_archive/pt_archive.php:879
+msgid "read more..."
+msgstr ""
+
+#: includes/modules/pt_archive/pt_archive.php:895
+msgid "read more"
+msgstr ""
+
+#: includes/modules/read_more/read_more.php:8
+msgid "CPT Read More"
+msgstr ""
+
+#: includes/modules/read_more/read_more.php:54
+msgid "Button Text"
+msgstr ""
+
+#: includes/modules/read_more/read_more.php:58
+msgid "What should the label button say? Defaults to \"Find out more\""
+msgstr ""
+
+#: includes/modules/taxonomy/taxonomy.php:14
+msgid "CPT Taxonomy"
+msgstr ""
+
+#: includes/modules/taxonomy/taxonomy.php:47
+#: includes/modules/taxonomy/taxonomy.php:94
+msgid "Prefix"
+msgstr ""
+
+#: includes/modules/taxonomy/taxonomy.php:55
+#: includes/modules/taxonomy/taxonomy.php:100
+msgid "Suffix"
+msgstr ""
+
+#: includes/modules/taxonomy/taxonomy.php:87
+msgid "Taxonomy"
+msgstr ""
+
+#: includes/modules/taxonomy/taxonomy.php:106
+msgid "Separator"
+msgstr ""
+
+#: includes/modules/title/title.php:14
+msgid "CPT Title"
+msgstr ""
+
+#: includes/modules/title/title.php:94
+msgid "Hide Title"
+msgstr ""
+
+#: includes/modules/title/title.php:101
+msgid "Here you can choose whether or not hide the Post Title"
+msgstr ""
+
+#: includes/modules/title/title.php:105
+msgid "Show Meta"
+msgstr ""
+
+#: includes/modules/title/title.php:118
+msgid "Here you can choose whether or not display the Post Meta"
+msgstr ""
+
+#: includes/modules/title/title.php:130
+msgid "Here you can choose whether or not display the Author Name in Post Meta"
+msgstr ""
+
+#: includes/modules/title/title.php:145
+msgid "Here you can choose whether or not display the Date in Post Meta"
+msgstr ""
+
+#: includes/modules/title/title.php:149
+msgid "Date Format"
+msgstr ""
+
+#: includes/modules/title/title.php:153
+msgid "Here you can define the Date Format in Post Meta. Default is 'M j, Y'"
+msgstr ""
+
+#: includes/modules/title/title.php:169
+msgid "Show Comments Count"
+msgstr ""
+
+#: includes/modules/title/title.php:177
+msgid "Here you can choose whether or not display the Comments Count in Post Meta."
+msgstr ""
+
+#: includes/modules/title/title.php:290
+msgid "0 comments"
+msgstr ""
+
+#: includes/modules/title/title.php:290
+msgid "1 comment"
+msgstr ""
+
+#: includes/modules/title/title.php:290
+msgid "comments"
+msgstr ""
+
+#: licensing/EDD_SL_Plugin_Updater.php:201
+msgid "There is a new version of %1$s available. %2$sView version %3$s details%4$s."
+msgstr ""
+
+#: licensing/EDD_SL_Plugin_Updater.php:209
+msgid ""
+"There is a new version of %1$s available. %2$sView version %3$s details%4$s "
+"or %5$supdate now%6$s."
+msgstr ""
+
+#: licensing/EDD_SL_Plugin_Updater.php:399
+msgid "You do not have permission to install plugin updates"
+msgstr ""
+
+#: licensing/EDD_SL_Plugin_Updater.php:399
+msgid "Error"
+msgstr ""
+
+#: licensing/emp-licensing.php:60
+msgid "License Key"
+msgstr ""
+
+#: licensing/emp-licensing.php:68
+msgid "License Status"
+msgstr ""
+
+#: licensing/emp-licensing.php:72
+msgid "License Active"
+msgstr ""
+
+#: licensing/emp-licensing.php:75
+msgid "License NOT Active"
+msgstr ""
+
+#: licensing/emp-licensing.php:120 licensing/emp-licensing.php:167
+msgid "An error occurred, please try again."
+msgstr ""
+
+#: licensing/emp-licensing.php:134
+msgid "Your license key expired on %s."
+msgstr ""
+
+#: licensing/emp-licensing.php:141
+msgid "Your license key has been disabled."
+msgstr ""
+
+#: licensing/emp-licensing.php:146
+msgid "Invalid license."
+msgstr ""
+
+#: licensing/emp-licensing.php:152
+msgid "Your license is not active for this URL."
+msgstr ""
+
+#: licensing/emp-licensing.php:157
+msgid "This appears to be an invalid license key for %s."
+msgstr ""
+
+#: licensing/emp-licensing.php:162
+msgid "Your license key has reached its activation limit."
+msgstr ""
+
+#. Plugin Name of the plugin/theme
+msgid "CPT Layout Injector"
+msgstr ""
+
+#. Author URI of the plugin/theme
+msgid "http://www.sean-barton.co.uk"
+msgstr ""
+
+#. Description of the plugin/theme
+msgid ""
+"A plugin to handle the layouts of any Custom Post Type pages using the ET "
+"layout builder system."
+msgstr ""
+
+#. Author of the plugin/theme
+msgid "Sean Barton - Tortoise IT"
+msgstr ""
+
+#: includes/modules/pt_archive/pt_archive.php:860
+msgctxt "number of comments"
+msgid "1 Comment"
+msgid_plural "%s Comments"
+msgstr[0] ""
+msgstr[1] ""
