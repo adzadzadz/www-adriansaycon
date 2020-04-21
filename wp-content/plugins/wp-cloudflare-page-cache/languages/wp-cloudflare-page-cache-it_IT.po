@@ -1,0 +1,937 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: WP Cloudflare Super Page Cache\n"
+"POT-Creation-Date: 2020-04-18 12:48+0200\n"
+"PO-Revision-Date: 2020-04-18 12:48+0200\n"
+"Last-Translator: \n"
+"Language-Team: \n"
+"Language: it\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Poedit 2.0.6\n"
+"X-Poedit-Basepath: ..\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+"X-Poedit-KeywordsList: __;_e\n"
+"X-Poedit-SearchPath-0: .\n"
+
+#: wp-cloudflare-super-page-cache.php:620
+#: wp-cloudflare-super-page-cache.php:621
+#: wp-cloudflare-super-page-cache.php:1308
+msgid "WP Cloudflare Super Page Cache"
+msgstr "WP Cloudflare Super Page Cache"
+
+#: wp-cloudflare-super-page-cache.php:629
+#: wp-cloudflare-super-page-cache.php:630
+msgid "WP Cloudflare Super Page Cache Nginx Settings"
+msgstr "WP Cloudflare Super Page Cache - Regole Nginx"
+
+#: wp-cloudflare-super-page-cache.php:643
+#: wp-cloudflare-super-page-cache.php:658
+msgid "Purge CF Cache"
+msgstr "Pulisci cache Cloudflare"
+
+#: wp-cloudflare-super-page-cache.php:665
+msgid "Purge whole Cloudflare Cache"
+msgstr "Pulisci l'intera cache"
+
+#: wp-cloudflare-super-page-cache.php:674
+msgid "Purge only current page cache"
+msgstr "Pulisci cache solo per questa pagina"
+
+#: wp-cloudflare-super-page-cache.php:688
+msgid "Settings"
+msgstr "Impostazioni"
+
+#: wp-cloudflare-super-page-cache.php:699
+#: wp-cloudflare-super-page-cache.php:2014
+msgid "Permission denied"
+msgstr "Permesso negato"
+
+#: wp-cloudflare-super-page-cache.php:738
+msgid "Page cache disabled successfully"
+msgstr "Cache disabilitata con successo"
+
+#: wp-cloudflare-super-page-cache.php:750
+msgid "Page caching is working properly"
+msgstr "La cache funziona correttamente"
+
+#: wp-cloudflare-super-page-cache.php:762
+msgid "Unable to find the page ID"
+msgstr "Impossibile trovare l'ID della pagina"
+
+#: wp-cloudflare-super-page-cache.php:770
+msgid "Invalid page ID"
+msgstr "ID pagina non valido"
+
+#: wp-cloudflare-super-page-cache.php:782
+#: wp-cloudflare-super-page-cache.php:796
+msgid ""
+"Cache purged successfully. It may take up to 30 seconds for the cache to be "
+"permanently cleaned by Cloudflare"
+msgstr ""
+"Cache pulita correttamente. Affinché Cloudflare pulisca la cache "
+"interamente, potrebbero essere necessario attendere fino a 30 secondi"
+
+#: wp-cloudflare-super-page-cache.php:848
+msgid "Page cache enabled successfully"
+msgstr "Cache abilitata con successo"
+
+#: wp-cloudflare-super-page-cache.php:1285
+msgid "General Settings"
+msgstr "Impostazioni Generali"
+
+#: wp-cloudflare-super-page-cache.php:1288
+msgid "Config"
+msgstr "Configurazione"
+
+#: wp-cloudflare-super-page-cache.php:1312
+#, php-format
+msgid "Error: %s"
+msgstr "Errore: %s"
+
+#: wp-cloudflare-super-page-cache.php:1312
+#: wp-cloudflare-super-page-cache.php:1318
+msgid "Hide this notice"
+msgstr "Nascondi questa notifica"
+
+#: wp-cloudflare-super-page-cache.php:1335
+msgid "Enter your Cloudflare's API key and e-mail"
+msgstr "Inserisci la tua API key e l'indirizzo email Cloudflare"
+
+#: wp-cloudflare-super-page-cache.php:1337
+msgid "You don't know how to do it? Follow these simple four steps:"
+msgstr "Non sai come fare? Segui questi semplici quattro passaggi:"
+
+#: wp-cloudflare-super-page-cache.php:1340
+#: wp-cloudflare-super-page-cache.php:1355
+msgid "Log in to your Cloudflare account"
+msgstr "Accedi al tuo account Cloudflare"
+
+#: wp-cloudflare-super-page-cache.php:1340
+#: wp-cloudflare-super-page-cache.php:1355
+msgid "and click on My Profile"
+msgstr "e clicca su My Profile"
+
+#: wp-cloudflare-super-page-cache.php:1341
+msgid ""
+"Click on API tokens, scroll to API Keys and click on View beside Global API "
+"Key"
+msgstr ""
+"Clicca su API tokens, scrolla fino a API Keys e clicca su View vicino a "
+"Global API Key"
+
+#: wp-cloudflare-super-page-cache.php:1342
+msgid "Enter your Cloudflare login password and click on View"
+msgstr "Inserisci login e password Cloudflare e clicca su View"
+
+#: wp-cloudflare-super-page-cache.php:1343
+msgid ""
+"Enter both API key and e-mail address into the form below and click on "
+"Update settings"
+msgstr ""
+"Inserisci nel form qui in basso la API key, l'indirizzo email e clicca su "
+"Aggiorna impostazioni"
+
+#: wp-cloudflare-super-page-cache.php:1350
+msgid "Enter your Cloudflare's API token"
+msgstr "Inserisci il tuo API token di Cloudflare"
+
+#: wp-cloudflare-super-page-cache.php:1352
+msgid "You don't know how to do it? Follow these simple steps:"
+msgstr "Non sai come fare? Segui questi semplici passaggi:"
+
+#: wp-cloudflare-super-page-cache.php:1356
+msgid "Click on API tokens > Create Token > Custom Token > Get started"
+msgstr "Clicca su API tokens > Create Token > Custom Token > Get started"
+
+#: wp-cloudflare-super-page-cache.php:1357
+msgid "Enter a Token name (example: token for example.com)"
+msgstr "Inserisci il Token name (esempio: token per sito esempio.com)"
+
+#: wp-cloudflare-super-page-cache.php:1358
+msgid "Permissions:"
+msgstr "Permissions:"
+
+#: wp-cloudflare-super-page-cache.php:1367
+msgid "Account resources:"
+msgstr "Account resources:"
+
+#: wp-cloudflare-super-page-cache.php:1372
+msgid "Zone resources:"
+msgstr "Zone resources:"
+
+#: wp-cloudflare-super-page-cache.php:1377
+msgid "Click on Continue to summary and then on Create token"
+msgstr "Clicca su Continue to summary e poi su Create token"
+
+#: wp-cloudflare-super-page-cache.php:1378
+msgid ""
+"Enter the generated token into the form below and click on Update settings"
+msgstr ""
+"Inserisci nel form qui in basso il token appena generato e clicca su "
+"Aggiorna impostazioni"
+
+#: wp-cloudflare-super-page-cache.php:1398
+msgid "Select the domain"
+msgstr "Seleziona il dominio"
+
+#: wp-cloudflare-super-page-cache.php:1400
+msgid ""
+"Select from the dropdown menu the domain for which you want to enable the "
+"cache"
+msgstr ""
+"Seleziona dal menu a tendina il dominio per il quale desideri abilitare la "
+"cache"
+
+#: wp-cloudflare-super-page-cache.php:1419
+msgid "Enable Page Caching"
+msgstr "Abilita la Cache"
+
+#: wp-cloudflare-super-page-cache.php:1421
+msgid ""
+"Now you can configure and enable the page cache to speed up this website"
+msgstr ""
+"Adesso puoi configurare ed abilitare la page cache per velocizzare questo "
+"sito web"
+
+#: wp-cloudflare-super-page-cache.php:1424
+msgid "Enable Page Caching Now"
+msgstr "Abilita Page Cache Adesso"
+
+#: wp-cloudflare-super-page-cache.php:1432
+msgid "Cache Actions"
+msgstr "Azioni Cache"
+
+#: wp-cloudflare-super-page-cache.php:1442
+msgid "Disable Page Cache"
+msgstr "Disabilita Page Cache"
+
+#: wp-cloudflare-super-page-cache.php:1450
+msgid "Purge Cache"
+msgstr "Pulisci Cache"
+
+#: wp-cloudflare-super-page-cache.php:1458
+msgid "Test Cache"
+msgstr "Verifica Cache"
+
+#: wp-cloudflare-super-page-cache.php:1465
+msgid "Are you sure you want reset all?"
+msgstr "Sei sicuro di voler ripristinare tutto?"
+
+#: wp-cloudflare-super-page-cache.php:1466
+msgid "Reset All"
+msgstr "Ripristina Tutto"
+
+#: wp-cloudflare-super-page-cache.php:1478
+msgid "Cloudflare General Settings"
+msgstr "Impostazioni Generali Cloudflare"
+
+#: wp-cloudflare-super-page-cache.php:1483
+msgid "Authentication mode"
+msgstr "Modalit&agrave; di autenticazione"
+
+#: wp-cloudflare-super-page-cache.php:1484
+msgid "Authentication mode to use to connect to your Cloudflare account."
+msgstr ""
+"Modalit&agrave; di autenticazione da usare per connettersi al tuo account "
+"Cloudflare."
+
+#: wp-cloudflare-super-page-cache.php:1488
+msgid "API Token"
+msgstr "API Token"
+
+#: wp-cloudflare-super-page-cache.php:1489
+msgid "API Key"
+msgstr "API Key"
+
+#: wp-cloudflare-super-page-cache.php:1497
+msgid "Cloudflare e-mail"
+msgstr "E-mail Cloudflare"
+
+#: wp-cloudflare-super-page-cache.php:1498
+msgid "The email address you use to log in to Cloudflare."
+msgstr "Indirizzo email che usi per accedere a Cloudflare."
+
+#: wp-cloudflare-super-page-cache.php:1508
+msgid "Cloudflare API Key"
+msgstr "API Key Cloudflare"
+
+#: wp-cloudflare-super-page-cache.php:1509
+msgid "The Global API Key extrapolated from your Cloudflare account."
+msgstr "Global API Key estrapolata dal tuo account Cloudflare."
+
+#: wp-cloudflare-super-page-cache.php:1519
+msgid "Cloudflare API Token"
+msgstr "API Token Cloudflare"
+
+#: wp-cloudflare-super-page-cache.php:1520
+msgid "The API Token extrapolated from your Cloudflare account."
+msgstr "API Token estrapolato dal tuo account Cloudflare."
+
+#: wp-cloudflare-super-page-cache.php:1530
+msgid "Debug mode"
+msgstr "Modalità debug"
+
+#: wp-cloudflare-super-page-cache.php:1531
+msgid ""
+"If enabled, you will see all communications between Cloudflare and WP "
+"Cloudflare Super Page Cache at the bottom of this page."
+msgstr ""
+"Se abilitata, vedrai tutte le comunicazioni tra Cloudflare e WP Cloudflare "
+"Super Page Cache in fondo a questa pagina."
+
+#: wp-cloudflare-super-page-cache.php:1536
+msgid "Enabled"
+msgstr "Abilitata"
+
+#: wp-cloudflare-super-page-cache.php:1538
+msgid "Disabled"
+msgstr "Disabilitata"
+
+#: wp-cloudflare-super-page-cache.php:1548
+msgid "Cloudflare Domain Name"
+msgstr "Nome a dominio su Cloudflare"
+
+#: wp-cloudflare-super-page-cache.php:1549
+msgid ""
+"Select the domain for which you want to enable the cache and click on Update "
+"settings."
+msgstr ""
+"Seleziona il dominio per il quale intendi abilitare la cache e clicca su "
+"Aggiorna impostazioni."
+
+#: wp-cloudflare-super-page-cache.php:1555
+msgid "Select a Domain Name"
+msgstr "Seleziona un nome a dominio"
+
+#: wp-cloudflare-super-page-cache.php:1576
+msgid "Subdomain"
+msgstr "Sottodominio"
+
+#: wp-cloudflare-super-page-cache.php:1577
+msgid ""
+"If you want to enable the cache for a subdomain of the selected domain, "
+"enter it here. For example, if you selected the domain example.com from the "
+"drop-down menu and you want to enable the cache for subdomain.example.com, "
+"enter subdomain.example.com here."
+msgstr ""
+"Se vuoi abilitare la cache per un sottodominio del dominio selezionato, "
+"inseriscilo qui. Ad esempio, se hai selezionato il dominio esempio.com dal "
+"menu a tendina e desideri abilitare la cache per il sottodominio demo.es\n"
+"empio.com, inserisci demo.esempio.com qui."
+
+#: wp-cloudflare-super-page-cache.php:1588
+msgid "Cache lifetime settings"
+msgstr "Impostazioni durata cache"
+
+#: wp-cloudflare-super-page-cache.php:1593
+msgid "Cloudflare Cache-Control max-age"
+msgstr "Cache-Control max-age di Cloudflare"
+
+#: wp-cloudflare-super-page-cache.php:1594
+msgid ""
+"Don't touch if you don't know what is it. Must be grater than zero. "
+"Recommended 604800"
+msgstr ""
+"Non toccarlo se non sai cos'è. Deve essere maggiore di zero. Valore "
+"consigliato: 604800"
+
+#: wp-cloudflare-super-page-cache.php:1604
+msgid "Browser Cache-Control max-age"
+msgstr "Cache-Control max-age del browser"
+
+#: wp-cloudflare-super-page-cache.php:1605
+msgid ""
+"Don't touch if you don't know what is it. Must be grater than zero. "
+"Recommended a value between 60 and 600"
+msgstr ""
+"Non toccarlo se non sai cos'è. Deve essere maggiore di zero. È consigliato "
+"un valore compreso tra 60 e 600"
+
+#: wp-cloudflare-super-page-cache.php:1615
+msgid "Cache behavior settings"
+msgstr "Impostazioni sul comportamento della cache"
+
+#: wp-cloudflare-super-page-cache.php:1620
+msgid "Posts per page"
+msgstr "Post per pagina"
+
+#: wp-cloudflare-super-page-cache.php:1621
+msgid ""
+"Enter how many posts per page (or category) the theme shows to your users. "
+"It will be use to clean up the pagination on cache purge."
+msgstr ""
+"Inserisci quanti post per pagina (o categoria) il template mostra ai tuoi "
+"utenti. Verrà utilizzato per ripulire la paginazione in caso di pulizia "
+"della cache."
+
+#: wp-cloudflare-super-page-cache.php:1631
+msgid ""
+"Overwrite the cache-control header for Wordpress's pages using web server "
+"rules"
+msgstr ""
+"Sovrascrivi gli header cache-control per le pagine Wordpress usando le "
+"regole del web server"
+
+#: wp-cloudflare-super-page-cache.php:1632
+msgid ""
+"This option is useful if you use WP Cloudflare Super Page Cache together "
+"with other performance plugins that could affect the Cloudflare cache with "
+"their cache-control headers. It works automatically if you are using Apache "
+"as web server or as backend web server."
+msgstr ""
+"Questa opzione è utile se usi WP Cloudflare Super Page Cache insieme ad "
+"altri plugin di performance che potrebbero entrare in conflitto con la cache "
+"di Cloudflare qualora creassero ulteriori header cache-control. Questa "
+"opzione funziona automaticamente se usi Apache come web server principale o "
+"come web server di backend."
+
+#: wp-cloudflare-super-page-cache.php:1634
+msgid "Read here if you use Apache (htaccess)"
+msgstr "Leggi qui se usi Apache (htaccess)"
+
+#: wp-cloudflare-super-page-cache.php:1634
+msgid ""
+"for overwriting to work, make sure that the rules added by WP Cloudflare "
+"Super Page Cache are placed at the bottom of the htaccess file. If they are "
+"present BEFORE other caching rules of other plugins, move them to the bottom "
+"manually."
+msgstr ""
+"affinché la sovrascrittura funzioni, assicurati che le regole aggiunte da WP "
+"Cloudflare Super Page Cache siano inserite in fondo al file htaccess. "
+"Qualora dovessero essere presenti PRIMA di altre regole di caching di altri "
+"plugin, spostale in fondo manualmente."
+
+#: wp-cloudflare-super-page-cache.php:1636
+#: wp-cloudflare-super-page-cache.php:1788
+msgid "Read here if you only use Nginx"
+msgstr "Leggi qui se usi solo Nginx"
+
+#: wp-cloudflare-super-page-cache.php:1636
+#: wp-cloudflare-super-page-cache.php:1788
+msgid ""
+"it is not possible for WP Cloudflare Super Page Cache to automatically "
+"change the settings to allow this option to work immediately. For it to "
+"work, update these settings and then follow the instructions"
+msgstr ""
+"non è possibile per WP Cloudflare Super Page Cache modificare "
+"automaticamente le impostazioni per consentire a questa opzione di "
+"funzionare fin da subito. Per farla funzionare, aggiorna le impostazioni e "
+"segui le istruzioni"
+
+#: wp-cloudflare-super-page-cache.php:1636
+#: wp-cloudflare-super-page-cache.php:1718
+#: wp-cloudflare-super-page-cache.php:1735
+#: wp-cloudflare-super-page-cache.php:1788
+msgid "on this page"
+msgstr "su questa pagina"
+
+#: wp-cloudflare-super-page-cache.php:1641
+#: wp-cloudflare-super-page-cache.php:1657
+#: wp-cloudflare-super-page-cache.php:1673
+#: wp-cloudflare-super-page-cache.php:1723
+#: wp-cloudflare-super-page-cache.php:1740
+#: wp-cloudflare-super-page-cache.php:1755
+#: wp-cloudflare-super-page-cache.php:1770
+#: wp-cloudflare-super-page-cache.php:1793
+#: wp-cloudflare-super-page-cache.php:1809
+msgid "Yes"
+msgstr "Si"
+
+#: wp-cloudflare-super-page-cache.php:1643
+#: wp-cloudflare-super-page-cache.php:1659
+#: wp-cloudflare-super-page-cache.php:1675
+#: wp-cloudflare-super-page-cache.php:1725
+#: wp-cloudflare-super-page-cache.php:1742
+#: wp-cloudflare-super-page-cache.php:1757
+#: wp-cloudflare-super-page-cache.php:1772
+#: wp-cloudflare-super-page-cache.php:1795
+#: wp-cloudflare-super-page-cache.php:1811
+msgid "No"
+msgstr "No"
+
+#: wp-cloudflare-super-page-cache.php:1651
+msgid ""
+"Automatically purge the Cloudflare cache on website changes (posts, pages, "
+"themes, attachments, etc..)"
+msgstr ""
+"Pulisci la cache di Cloudflare automaticamente quando avvengono modifiche al "
+"sito (post, pagine, temi, articoli, ecc..)"
+
+#: wp-cloudflare-super-page-cache.php:1652
+msgid ""
+"If enabled, WP Cloudflare Super Page Cache tries to purge the cache for "
+"related pages only."
+msgstr ""
+"Se abilitata, WP Cloudflare Super Page Cache prova a pulire la cache solo "
+"per le pagine correlate."
+
+#: wp-cloudflare-super-page-cache.php:1667
+msgid ""
+"Automatically purge the whole Cloudflare cache on website changes (posts, "
+"pages, themes, attachments, etc..)"
+msgstr ""
+"Pulisci automaticamente l'intera cache Cloudflare quando avvengono modifiche "
+"al sito (post, pagine, temi, allegati, ecc..)"
+
+#: wp-cloudflare-super-page-cache.php:1668
+msgid ""
+"If enabled, WP Cloudflare Super Page Cache will purge the whole Cloudflare "
+"cache."
+msgstr ""
+"Se abilitata, WP Cloudflare Super Page Cache pulisce l'intera cache di "
+"Cloudflare."
+
+#: wp-cloudflare-super-page-cache.php:1684
+msgid "Don't cache the following page types"
+msgstr "Non inserire in cache le seguenti tipologie di pagine"
+
+#: wp-cloudflare-super-page-cache.php:1687
+msgid "Page 404 (is_404)"
+msgstr "Pagina 404 (is_404)"
+
+#: wp-cloudflare-super-page-cache.php:1687
+#: wp-cloudflare-super-page-cache.php:1695
+#: wp-cloudflare-super-page-cache.php:1696
+#: wp-cloudflare-super-page-cache.php:1698
+#: wp-cloudflare-super-page-cache.php:1842
+#: wp-cloudflare-super-page-cache.php:1843
+#: wp-cloudflare-super-page-cache.php:1844
+#: wp-cloudflare-super-page-cache.php:1880
+#: wp-cloudflare-super-page-cache.php:1915
+#: wp-cloudflare-super-page-cache.php:1916
+#: wp-cloudflare-super-page-cache.php:1946
+msgid "(recommended)"
+msgstr "(consigliato)"
+
+#: wp-cloudflare-super-page-cache.php:1688
+msgid "Single Posts (is_single)"
+msgstr "Singolo post (is_single)"
+
+#: wp-cloudflare-super-page-cache.php:1689
+msgid "Pages (is_page)"
+msgstr "Pagine (is_page)"
+
+#: wp-cloudflare-super-page-cache.php:1690
+msgid "Front Page (is_front_page)"
+msgstr "Pagina iniziale (is_front_page)"
+
+#: wp-cloudflare-super-page-cache.php:1691
+msgid "Home (is_home)"
+msgstr "Home (is_home)"
+
+#: wp-cloudflare-super-page-cache.php:1692
+msgid "Archives (is_archive)"
+msgstr "Archivi (is_archive)"
+
+#: wp-cloudflare-super-page-cache.php:1693
+msgid "Tags (is_tag)"
+msgstr "Tag (is_tag)"
+
+#: wp-cloudflare-super-page-cache.php:1694
+msgid "Categories (is_category)"
+msgstr "Categorie (is_category)"
+
+#: wp-cloudflare-super-page-cache.php:1695
+msgid "Feeds (is_feed)"
+msgstr "Feed (is_feed)"
+
+#: wp-cloudflare-super-page-cache.php:1696
+msgid "Search Pages (is_search)"
+msgstr "Risultati di ricerca (is_search)"
+
+#: wp-cloudflare-super-page-cache.php:1697
+msgid "Author Pages (is_author)"
+msgstr "Pagine autori (is_author)"
+
+#: wp-cloudflare-super-page-cache.php:1698
+msgid "AMP Pages"
+msgstr "Pagine AMP"
+
+#: wp-cloudflare-super-page-cache.php:1705
+msgid "Prevent the following urls to be cached"
+msgstr "Non inserire in cache le seguenti URL"
+
+#: wp-cloudflare-super-page-cache.php:1706
+msgid "One URL per line. You can use the * for wildcard URLs."
+msgstr "Una URL per riga. Puoi usare l'asterisco * per URL wildcard."
+
+#: wp-cloudflare-super-page-cache.php:1716
+msgid "Prevent XML sitemaps to be cached"
+msgstr "Escludi dalla cache le sitemap XML"
+
+#: wp-cloudflare-super-page-cache.php:1718
+#: wp-cloudflare-super-page-cache.php:1735
+msgid "If you only use Nginx"
+msgstr "Se usi solo Nginx"
+
+#: wp-cloudflare-super-page-cache.php:1718
+#: wp-cloudflare-super-page-cache.php:1735
+msgid "it is recommended to add the browser caching rules that you find"
+msgstr "è consigliato aggiungere le regole di browser caching che trovi"
+
+#: wp-cloudflare-super-page-cache.php:1718
+#: wp-cloudflare-super-page-cache.php:1735
+msgid "after saving these settings"
+msgstr "dopo aver salvato queste configurazioni"
+
+#: wp-cloudflare-super-page-cache.php:1733
+msgid "Prevent robots.txt to be cached"
+msgstr "Escludi dalla cache robots.txt"
+
+#: wp-cloudflare-super-page-cache.php:1750
+msgid "Bypass the cache for logged-in users"
+msgstr "Eludi la cache per gli utenti loggati"
+
+#: wp-cloudflare-super-page-cache.php:1765
+msgid "Bypass the cache for AJAX requests"
+msgstr "Eludi la cache per le richieste AJAX"
+
+#: wp-cloudflare-super-page-cache.php:1780
+msgid "Browser caching"
+msgstr "Browser caching"
+
+#: wp-cloudflare-super-page-cache.php:1785
+msgid "Add browser caching rules for assets"
+msgstr "Aggiungi regole di browser caching per file statici"
+
+#: wp-cloudflare-super-page-cache.php:1786
+msgid ""
+"This option is useful if you want to use WP Cloudflare Super Page Cache to "
+"enable browser caching rules for assets such like images, CSS, scripts, etc. "
+"It works automatically if you use Apache as web server or as backend web "
+"server."
+msgstr ""
+"Questa opzione è utile qualora voglia usare WP Cloudflare Super Page Cache "
+"per abilitare le regole di browser caching per file statici come immagini, "
+"CSS, script, ecc. Questa opzione funziona automaticamente se usi Apache come "
+"web server principale o come web server di backend."
+
+#: wp-cloudflare-super-page-cache.php:1804
+msgid ""
+"Automatically purge single post cache when a new comment is inserted into "
+"the database or when a comment is approved or deleted"
+msgstr ""
+"Pulisci automaticamente la cache del singolo post quando viene aggiunto un "
+"nuovo commento o quando un commento viene approvato o eliminato"
+
+#: wp-cloudflare-super-page-cache.php:1820
+msgid "WooCommerce settings"
+msgstr "Impostazioni WooCommerce"
+
+#: wp-cloudflare-super-page-cache.php:1825
+#: wp-cloudflare-super-page-cache.php:1863
+#: wp-cloudflare-super-page-cache.php:1898
+#: wp-cloudflare-super-page-cache.php:1929
+msgid "Plugin status"
+msgstr "Stato plugin"
+
+#: wp-cloudflare-super-page-cache.php:1829
+#: wp-cloudflare-super-page-cache.php:1867
+#: wp-cloudflare-super-page-cache.php:1902
+#: wp-cloudflare-super-page-cache.php:1933
+msgid "Active"
+msgstr "Attivo"
+
+#: wp-cloudflare-super-page-cache.php:1831
+#: wp-cloudflare-super-page-cache.php:1869
+#: wp-cloudflare-super-page-cache.php:1904
+#: wp-cloudflare-super-page-cache.php:1935
+msgid "Inactive"
+msgstr "Inattivo"
+
+#: wp-cloudflare-super-page-cache.php:1839
+msgid "Don't cache the following WooCommerce page types"
+msgstr "Non inserire in cache le seguenti tipologie di pagine WooCommerce"
+
+#: wp-cloudflare-super-page-cache.php:1842
+msgid "Cart (is_cart)"
+msgstr "Carrello (is_cart)"
+
+#: wp-cloudflare-super-page-cache.php:1843
+msgid "Checkout (is_checkout)"
+msgstr "Checkout (is_checkout)"
+
+#: wp-cloudflare-super-page-cache.php:1844
+msgid "Checkout's pay page (is_checkout_pay_page)"
+msgstr "Pagina di pagamento del checkout (is_checkout_pay_page)"
+
+#: wp-cloudflare-super-page-cache.php:1845
+msgid "Product (is_product)"
+msgstr "Prodotto (is_product)"
+
+#: wp-cloudflare-super-page-cache.php:1846
+msgid "Shop (is_shop)"
+msgstr "Negozio (is_shop)"
+
+#: wp-cloudflare-super-page-cache.php:1847
+msgid "Product taxonomy (is_product_taxonomy)"
+msgstr "Tassonomia prodotto (is_product_taxonomy)"
+
+#: wp-cloudflare-super-page-cache.php:1848
+msgid "Product tag (is_product_tag)"
+msgstr "Tag prodotto (is_product_tag)"
+
+#: wp-cloudflare-super-page-cache.php:1849
+msgid "Product category (is_product_category)"
+msgstr "Categoria prodotto (is_product_category)"
+
+#: wp-cloudflare-super-page-cache.php:1850
+msgid "WooCommerce page (is_woocommerce)"
+msgstr "Pagine WooCommerce (is_woocommerce)"
+
+#: wp-cloudflare-super-page-cache.php:1858
+msgid "W3 Total Cache settings"
+msgstr "Impostazioni W3 Total cache"
+
+#: wp-cloudflare-super-page-cache.php:1877
+#: wp-cloudflare-super-page-cache.php:1912
+#: wp-cloudflare-super-page-cache.php:1943
+msgid "Automatically purge the cache when"
+msgstr "Pulisci automaticamente la cache quando"
+
+#: wp-cloudflare-super-page-cache.php:1880
+msgid "W3TC flushs all caches"
+msgstr "W3TC pulisce tutte le cache"
+
+#: wp-cloudflare-super-page-cache.php:1881
+msgid "W3TC flushs database cache"
+msgstr "W3TC pulisce la cache del database"
+
+#: wp-cloudflare-super-page-cache.php:1882
+msgid "W3TC flushs fragment cache"
+msgstr "W3TC pulisce la fragment cache"
+
+#: wp-cloudflare-super-page-cache.php:1883
+msgid "W3TC flushs object cache"
+msgstr "W3TC pulisce la object cache"
+
+#: wp-cloudflare-super-page-cache.php:1884
+msgid "W3TC flushs posts cache"
+msgstr "W3TC pulisce la cache dei post"
+
+#: wp-cloudflare-super-page-cache.php:1885
+msgid "W3TC flushs minify cache"
+msgstr "W3TC pulisce la cache dei file minificati"
+
+#: wp-cloudflare-super-page-cache.php:1893
+msgid "WP Rocket settings"
+msgstr "Impostazioni WP Rocket"
+
+#: wp-cloudflare-super-page-cache.php:1915
+msgid "WP Rocket flushs all caches"
+msgstr "WP Rocket pulisce tutte le cache"
+
+#: wp-cloudflare-super-page-cache.php:1916
+msgid "WP Rocket flushs single post cache"
+msgstr "WP Rocket pulisce la cache del singolo post"
+
+#: wp-cloudflare-super-page-cache.php:1924
+msgid "WP Super Cache settings"
+msgstr "Impostazioni WP Super Cache"
+
+#: wp-cloudflare-super-page-cache.php:1946
+msgid "WP Super Cache flushs all caches"
+msgstr "WP Super Cache pulisce la cache"
+
+#: wp-cloudflare-super-page-cache.php:1953
+msgid "Other settings"
+msgstr "Altre impostazioni"
+
+#: wp-cloudflare-super-page-cache.php:1958
+msgid "Purge the whole Cloudflare cache with a Cronjob"
+msgstr "Pulisci l'intera cache di Cloudflare con un cronjob"
+
+#: wp-cloudflare-super-page-cache.php:1961
+msgid ""
+"If you want purge the whole Cloudflare cache at specific intervals decided "
+"by you, you can create a cronjob that hits the following URL"
+msgstr ""
+"Se desideri ripulire l'intera cache di Cloudflare ad intervalli specifici "
+"decisi da te, puoi creare un cronjob che richiama la seguente URL"
+
+#: wp-cloudflare-super-page-cache.php:1971
+msgid "Update settings"
+msgstr "Aggiorna impostazioni"
+
+#: wp-cloudflare-super-page-cache.php:1980
+msgid "Debug info"
+msgstr "Informazioni di debug"
+
+#: wp-cloudflare-super-page-cache.php:1993
+msgid "About the author and support"
+msgstr "Note sull'autore e supporto"
+
+#: wp-cloudflare-super-page-cache.php:1995
+msgid ""
+"My name is Salvatore Fresta and I'm an italian web performance specialist "
+"and a senior developer. I'm the founder of the first italian blog about "
+"Wordpress performance"
+msgstr ""
+"Mi chiamo Salvatore Fresta e sono un esperto di web performance ed uno "
+"sviluppatore senior. Sono il fondatore del primo blog italiano dedicato alle "
+"performance di Wordpress"
+
+#: wp-cloudflare-super-page-cache.php:1995
+msgid "and the co-founder of the italian agency "
+msgstr "e co-fondatore dell'agenzia italiana "
+
+#: wp-cloudflare-super-page-cache.php:1996
+msgid ""
+"If you have any issues with this plugin, drop me a line via email to "
+"salvatorefresta [at] gmail.com"
+msgstr ""
+"Qualora dovessi riscontrare problemi con questo plugin, scrivimi una email a "
+"salvatorefresta [at] gmail.com"
+
+#: wp-cloudflare-super-page-cache.php:2049
+msgid "WP Cloudflare Super Page Cache - Nginx Settings"
+msgstr "WP Cloudflare Super Page Cache - Regole Nginx"
+
+#: wp-cloudflare-super-page-cache.php:2054
+msgid "Overwrite the cache-control header"
+msgstr "Sovrascrittura dell'header cache-control"
+
+#: wp-cloudflare-super-page-cache.php:2057
+msgid ""
+"Edit the main Nginx configuration file, usually /etc/nginx.conf, and enter "
+"these rules immediately after opening the http block:"
+msgstr ""
+"Modifica il file principale di Nginx, solitamente /etc/nginx.conf, ed "
+"inserisci le seguenti regole immediatamente dopo l'apertura del blocco http:"
+
+#: wp-cloudflare-super-page-cache.php:2066
+msgid ""
+"Now open the configuration file of your domain and add the following rules "
+"inside the block that deals with the management of PHP pages:"
+msgstr ""
+"Adesso apri il file di configurazione del tuo dominio e aggiungi le seguenti "
+"regole all'interno del blocco che si occupa della gestione delle pagine PHP:"
+
+#: wp-cloudflare-super-page-cache.php:2075
+#: wp-cloudflare-super-page-cache.php:2091
+msgid "Save and restart Nginx."
+msgstr "Salva e riavvia Nginx."
+
+#: wp-cloudflare-super-page-cache.php:2082
+msgid "Browser caching rules"
+msgstr "Regole di browser caching"
+
+#: wp-cloudflare-super-page-cache.php:2085
+msgid "Open the configuration file of your domain and add the following rules:"
+msgstr ""
+"Apri il file di configurazione del tuo dominio e aggiungi le seguenti regole:"
+
+#: wp-cloudflare-super-page-cache.php:2120
+#: wp-cloudflare-super-page-cache.php:2137
+#: wp-cloudflare-super-page-cache.php:2149
+#: wp-cloudflare-super-page-cache.php:2228
+#: wp-cloudflare-super-page-cache.php:2318
+#: wp-cloudflare-super-page-cache.php:2370
+#: wp-cloudflare-super-page-cache.php:2427
+#: wp-cloudflare-super-page-cache.php:2482
+#: wp-cloudflare-super-page-cache.php:2537
+#: wp-cloudflare-super-page-cache.php:2588
+msgid "Connection error: "
+msgstr "Errore di connessione: "
+
+#: wp-cloudflare-super-page-cache.php:2163
+msgid ""
+"The cache doesn't seem to work. If you have recently enabled the cache or it "
+"is your first test, wait about 30 seconds and try again because the changes "
+"take a few seconds for Cloudflare to propagate them on the web. If the error "
+"persists, request support for a detailed check."
+msgstr ""
+"La cache sembra non funzionare. Se hai abilitato la cache di recente o se si "
+"tratta del tuo primo test di verifica, attendi circa 30 secondi e riprova in "
+"quanto i cambiamenti potrebbero richiedere diversi secondi affinché "
+"Cloudflare li propaghi sul web. Se l'errore persiste, richiedi un supporto "
+"per un controllo dettagliato."
+
+#: wp-cloudflare-super-page-cache.php:2168
+#, php-format
+msgid "Cache status: %s - Try again"
+msgstr "Status della cache: %s - Riprova"
+
+#: wp-cloudflare-super-page-cache.php:2275
+msgid "Unable to retrive zone id due to invalid response data"
+msgstr "Impossibile recuperare lo zone id per via di una risposta non valida"
+
+#: wp-cloudflare-super-page-cache.php:2290
+msgid "Unable to find domains configured on Cloudflare"
+msgstr "Impossibile recuperare la lista dei domini configurati su Cloudflare"
+
+#: wp-cloudflare-super-page-cache.php:2346
+msgid "Unable to find Browser Cache TTL settings "
+msgstr "Impossibile trovare i settaggi di Browser Cache TTL "
+
+#: wp-cloudflare-super-page-cache.php:2408
+msgid "There is not page rule to delete"
+msgstr "Non c'è alcuna page rule da eliminare"
+
+#: wp-cloudflare-super-page-cache.php:2413
+msgid "There is not zone id to use"
+msgstr "Non c'è alcun zone id da usare"
+
+#~ msgid "Bypass the cache for WooCommerce cart page"
+#~ msgstr "Escludi dalla cache la pagina carrello"
+
+#~ msgid "Bypass the cache when viewing the cart page."
+#~ msgstr "Bypassa la cache quando viene visualizzata la pagina del carrello."
+
+#~ msgid "Bypass the cache for WooCommerce checkout page"
+#~ msgstr "Escludi dalla cache la pagina checkout"
+
+#~ msgid "Bypass the cache for WooCommerce checkout's pay page"
+#~ msgstr "Escludi dalla cache la pagina di pagamento"
+
+#~ msgid "Bypass the cache for WooCommerce products"
+#~ msgstr "Escludi dalla cache le pagine dei prodotti"
+
+#~ msgid "Bypass the cache when viewing a product."
+#~ msgstr "Bypassa la cache quando viene visualizzata la pagina del prodotto."
+
+#~ msgid "Bypass the cache for WooCommerce shop page"
+#~ msgstr "Escludi dalla cache la pagina negozio"
+
+#~ msgid "Bypass the cache for WooCommerce taxnonomy archives"
+#~ msgstr "Escludi dalla cache gli archivi delle tassonomie WooCommerce"
+
+#~ msgid "Bypass the cache for WooCommerce tags"
+#~ msgstr "Escludi dalla cache le pagine dei tag WooCommerce"
+
+#~ msgid "Bypass the cache for WooCommerce categories"
+#~ msgstr "Escludi dalla cache le pagine delle categorie WooCommerce"
+
+#~ msgid "Bypass the cache for WooCommerce pages"
+#~ msgstr "Escludi dalla cache le pagine altre pagine WooCommerce"
+
+#~ msgid "Attention"
+#~ msgstr "Attenzione"
+
+#~ msgid "Sitemaps (only if dynamically generated by Yoast)"
+#~ msgstr "Sitemaps (solo se generate automaticamente da Yoast)"
+
+#~ msgid "Robots.txt (only if dynamically generated by Yoast)"
+#~ msgstr "File robots.txt (solo se generato dinamicamente da Yoast)"
+
+#~ msgid ""
+#~ "If you use Nginx, a new file with rules for not allowing XML sitemaps to "
+#~ "be cached will be available"
+#~ msgstr ""
+#~ "Se usi Nginx, un nuovo file con le regole per non consentire alle sitemap "
+#~ "XML di essere inserite in cache sarà disponibile"
+
+#~ msgid "by clicking here"
+#~ msgstr "cliccando qui"
+
+#~ msgid ""
+#~ "If you use Nginx, a new file with rules for not allowing robots.txt to be "
+#~ "cached will be available"
+#~ msgstr ""
+#~ "Se usi Nginx, un nuovo file con le regole per non consentire a robots.txt "
+#~ "di essere inserito in cache sarà disponibile"
+
+#~ msgid "if you use Nginx, a new file containing the rules will be available"
+#~ msgstr "se usi Nginx, un nuovo file contenente le regole sarà disponibile"

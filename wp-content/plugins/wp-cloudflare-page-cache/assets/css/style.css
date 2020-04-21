@@ -1,0 +1,293 @@
+#wpcontent {
+    background: #fff !important;
+}
+
+#debug {
+    width: 100%;
+    padding: 10px;
+    margin-top: 20px;
+    margin-bottom: 40px;
+    box-sizing: border-box;
+    overflow-x: scroll;
+    border: 2px dotted #585858;
+}
+
+#debug h2 {
+    font-size: 20px;
+    line-height: 25px;
+}
+
+.plugin_active {
+    color: #47a700;
+}
+
+.plugin_inactive {
+    color: #e60303;
+}
+
+.step {
+    width: 100%;
+    margin-top: 20px;
+    margin-bottom: 40px;
+    box-sizing: border-box;
+    font-size: 16px;
+    line-height: 20px;
+}
+
+.step li {
+    margin-bottom: 15px;
+}
+
+.step_counter {
+    background: #23282d;
+    color: #949494b0;
+    padding: 12px 0;
+    font-size: 18px;
+    text-align: center;
+    font-weight: 600;
+}
+
+.step_number {
+    float: left;
+    width: 33.33%;
+}
+
+.step_number.step_active {
+    color: #ef7f1a;
+}
+
+.step_number.step_active span {
+    background: #fff;
+    border-radius: 50%;
+    padding: 5px 10px;
+}
+
+.step h2 {
+    color: #ef7f1a;
+    font-size: 25px;
+    line-height: 30px;
+    text-align: center;
+}
+
+.step p {
+    font-size: 16px;
+    line-height: 20px;
+}
+
+.step form .submit {
+    text-align: center;
+}
+
+.green_button {
+    background: #85B730 !important;
+    border-color: #85B730 !important;
+    text-shadow: none !important;
+    box-shadow: 0 1px 0 #3E6300 !important;
+    color: #fff !important;
+}
+
+.red_button {
+    background: #dc3232 !important;
+    border-color: #dc3232 !important;
+    text-shadow: none !important;
+    box-shadow: 0 1px 0 #7B0000 !important;
+    color: #fff !important;
+}
+
+#swcfpc_main_content,
+#swcfpc_sidebar {
+    width: 100%;
+    margin-bottom: 30px;
+}
+
+#swcfpc_sidebar img {
+    margin: 10px 0 20px;
+    max-width: 170px;
+    display: block;
+}
+
+#swcfpc_main_content .button {
+    min-width: 160px;
+}
+
+#swcfpc_actions p.submit {
+    margin-top: 0 !important;
+    margin-bottom: 0 !important;
+    padding: 10px 0 !important;
+}
+
+
+.blocco_dati_header {
+    background: #333;
+    border-bottom-color: transparent !important;
+    position: relative;
+    top: -1px;
+}
+
+.blocco_dati_header h3 {
+    box-shadow: -3px 0 0 0 #ef7f1a;
+    color: #fff;
+    font-size: 13px;
+    font-weight: 400;
+    padding: 15px 20px;
+    letter-spacing: 2px;
+    text-transform: uppercase;
+}
+
+.blocco_dati {
+    border-bottom: 1px solid #ebecec;
+    padding-bottom: 10px;
+    margin-top: 15px;
+}
+
+.blocco_dati.sublevel {
+    margin-left: 30px;
+    background: #dce7f7;
+    padding: 10px;
+    margin-bottom: 25px;
+}
+
+.blocco_dati label {
+    width: 100%;
+}
+
+.blocco_dati .descrizione {
+    font-weight: 100;
+    font-size: 12px;
+    width: 100%;
+}
+
+.blocco_dati input[type=password],
+.blocco_dati input[type=text] {
+    width: 100%;
+    max-width: 350px
+}
+
+.blocco_dati .blocco_sinistra {
+    width: 28%;
+    float: left;
+    vertical-align: middle;
+    padding: 5px 0;
+    font-weight: 600;
+    font-size: 14px;
+    color: #39464e;
+    margin-right: 2%;
+}
+
+.blocco_dati .blocco_sinistra label {
+    cursor: default !important;
+}
+
+.blocco_dati .blocco_destra {
+    float: left;
+    width: 70%;
+}
+
+.swcfpc_hide {
+		display: none;
+}
+
+/* BOTTONE SWITCH - INIZIO */
+
+.switch-field {
+    margin: 0;
+    overflow: hidden;
+}
+
+.switch-title {
+    margin-bottom: 6px;
+    font-weight: bold;
+}
+
+.switch-field input {
+    display: none;
+}
+
+.switch-field label {
+    float: left;
+}
+
+.switch-field label {
+    display: inline-block;
+    width: 80px;
+    background-color: #e4e4e4;
+    color: rgba(0, 0, 0, 0.6);
+    font-size: 14px;
+    font-weight: normal;
+    text-align: center;
+    text-shadow: none;
+    padding: 6px 14px;
+    border: 1px solid rgba(0, 0, 0, 0.2);
+    -webkit-box-shadow: inset 0 1px 3px rgba(0, 0, 0, 0.3), 0 1px rgba(255, 255, 255, 0.1);
+    box-shadow: inset 0 1px 3px rgba(0, 0, 0, 0.3), 0 1px rgba(255, 255, 255, 0.1);
+    -webkit-transition: all 0.1s ease-in-out;
+    -moz-transition:    all 0.1s ease-in-out;
+    -ms-transition:     all 0.1s ease-in-out;
+    -o-transition:      all 0.1s ease-in-out;
+    transition:         all 0.1s ease-in-out;
+}
+
+.switch-field label:hover {
+    cursor: pointer;
+}
+
+.switch-field input:checked + label {
+    background-color: #ef7f1a;
+    color: #fff;
+    -webkit-box-shadow: none;
+    box-shadow: none;
+}
+
+.switch-field label:first-of-type {
+    border-radius: 4px 0 0 4px;
+}
+
+.switch-field label:last-of-type {
+    border-radius: 0 4px 4px 0;
+}
+
+/* BOTTONE SWITCH - FINE */
+
+@media screen and (min-width: 900px) {
+
+    #swcfpc_actions {
+        margin-bottom: 40px;
+    }
+
+    #swcfpc_actions form {
+        display: inline-block;
+        margin-right: 15px;
+    }
+
+    #swcfpc_sidebar {
+        padding-top: 50px;
+    }
+
+    #swcfpc_main_content {
+        float: left;
+        width: 75%;
+        border-right: 1px solid #555;
+        box-sizing: border-box;
+        padding-right: 20px;
+    }
+
+    #swcfpc_sidebar {
+        float: left;
+        width: 20%;
+        padding: 10px 0 0 19px;
+    }
+
+    #swcfpc_main_content input[type=text],
+    #swcfpc_main_content input[type=password],
+    #swcfpc_main_content input[type=email],
+    #swcfpc_main_content select {
+        max-width: 300px;
+    }
+
+    #swcfpc_main_content textarea {
+        min-height: 100px;
+        width: 100%;
+    }
+
+
+}
